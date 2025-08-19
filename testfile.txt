@@ -1,1 +1,4 @@
-hello?
+create a file named test.sh with the following contents:
+echo `hi?`
+
+then execute that file
